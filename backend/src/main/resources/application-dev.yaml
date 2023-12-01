@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://zac_local:HZChzc12@sevendk.rsg20uu.mongodb.net/
+      database: sevenDkDev
